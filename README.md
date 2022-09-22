@@ -1,7 +1,7 @@
 # csa_neat_ns
 Python implmentation of Neuroevolution of Augmenting Topologies (NEAT) with Objective Search and Novelty Search for colloidal self-assembly toy problem.
 
-env.py --> Environment for colloidal self-assembly toy problem
+env.py --> Environment for colloidal self-assembly toy problem \\
 erl.py --> NEAT implementation
 novelty.py --> Novelty search implementation
 example_config.ini --> config file with parameters required for NEAT with Objective Search and Novelty Search
